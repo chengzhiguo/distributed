@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="distributed-test-consumer:war">
+    <output-path>$PROJECT_DIR$/distributed-test-consumer/target</output-path>
+    <root id="archive" name="distributed-test-consumer.war">
+      <element id="artifact" artifact-name="distributed-test-consumer:war exploded" />
+    </root>
+  </artifact>
+</component>

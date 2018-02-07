@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="distributed-test-provider:war">
+    <output-path>$PROJECT_DIR$/distributed-test-provider/target</output-path>
+    <root id="archive" name="distributed-test-provider.war">
+      <element id="artifact" artifact-name="distributed-test-provider:war exploded" />
+    </root>
+  </artifact>
+</component>
